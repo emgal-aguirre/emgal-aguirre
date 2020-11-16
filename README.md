@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello, I'm Emily, a Front-end Developer and designer based in Austin, Texas.
+
+I enjoy developing beautiful and functional websites.
+
 <!--
 **emgal-aguirre/emgal-aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
