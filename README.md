@@ -1,7 +1,11 @@
-### Hello, I'm Emily 👋
+### Hello, I'm Emily 👋🏼
  a Front-end Developer and designer based in Austin, Texas.
-
-I enjoy developing beautiful and functional websites.
+ I enjoy developing beautiful and functional websites.
+ 
+ - 💻 I’m currently working on gaining a Full Stack Development certification at The University of Texas. 
+ - 🌱 I’m currently learning the foundations of code. 
+ - 📫 Reach my via email @ emgal.aguirre@gmail.com
+ 
 
 <!--
 **emgal-aguirre/emgal-aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
