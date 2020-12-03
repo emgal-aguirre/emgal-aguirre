@@ -3,7 +3,7 @@
  I enjoy developing beautiful and functional websites and applications.
  
  - 💻    I’m currently gaining a Full Stack Development certification at The University of Texas. 
- - 🌱    I’m currently learning the foundations of code. 
+ - 🌱    I’m currently learning the foundations of Javascript and React.
  - 📫    Reach my via email @ emgal.aguirre@gmail.com
    
 
