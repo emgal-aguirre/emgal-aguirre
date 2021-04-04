@@ -1,4 +1,4 @@
-### Heey, I'm Emily 👋🏼
+### Hey, I'm Emily 👋🏼
  A Front-end Developer and designer based in Austin, Texas.
  I enjoy developing beautiful and functional websites and applications.
  
